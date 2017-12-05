@@ -1,0 +1,11 @@
+body {
+  background-color: rgb(205, 205, 205);
+  color: rgb(164, 0, 144);
+  font-family: 'Permanent Marker', cursive;
+}
+
+.greeting {
+  font-size: 35px;
+  color: rgb(164, 0, 144);
+  background-color: rgb(255, 255, 255);
+}
