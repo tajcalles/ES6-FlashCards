@@ -1,7 +1,7 @@
 body {
   background-color: rgb(205, 205, 205);
   color: rgb(164, 0, 144);
-  font-family: 'Permanent Marker', cursive;
+  font-family: 'Noto Serif', serif;
 }
 
 .greeting {
@@ -10,7 +10,7 @@ body {
   background-color: rgb(255, 255, 255);
 }
 
-.card {
-  margin-left: 50px;
-  margin-right: 50px;
+#flippycard {
+  height: 600px;
+  width: 950px;
 }
