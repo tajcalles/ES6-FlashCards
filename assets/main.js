@@ -27,7 +27,7 @@ $('#flippycard').on('click', function() {
 
 $("#card").flip();
 
-$(document).ready(function(){
-  $frontSide.style.backgroundImage = "src('assets/images/flash-card.jpg')";
-  $frontSide.style.backgroundSize = "600px 950px";
- });
+// $(document).ready(function(){
+//   $frontSide.style.backgroundImage = "src('assets/images/flash-card.jpg')";
+//   $frontSide.style.backgroundSize = "600px 950px";
+//  });
